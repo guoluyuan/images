@@ -1,0 +1,13 @@
+{
+  "repo": "guoluyuan/images", // 仓库名，格式是 username/reponame
+  "token": "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", // github token
+  "path": "", // 自定义存储路径，比如 img/
+  "customUrl": "", // 自定义域名，注意要加 http://或者 https://
+  "branch": "" // 分支名，默认是 main
+  ,
+  "picBed": {
+    "uploader": "smms",
+    "current": "smms"
+  },
+  "picgoPlugins": {}
+}
